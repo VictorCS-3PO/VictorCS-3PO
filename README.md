@@ -6,4 +6,5 @@
 <img width="1080" height="auto" alt="image" src="https://github.com/user-attachments/assets/f7ff6313-ed31-4fb7-8a28-4904bfbb234f" />
 
 <h1>Sobre mim</h1>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<h2>Estudando:</h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="200" height="auto" alt="javascript" />
