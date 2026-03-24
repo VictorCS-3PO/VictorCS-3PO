@@ -4,7 +4,7 @@
   <li>Estudante técnico de Desenvolvimento de Sistemas</li>
 </ul>
 
-##Tecnologias##
+*Tecnologias*
 <p>Estudando:</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="auto" height="32"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="auto" height="32"align="left">
