@@ -3,7 +3,6 @@
   <li>Desenvolvedor Full stack em formação</li>
   <li>Estudante técnico de Desenvolvimento de Sistemas</li>
 </ul>
-![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox)
 
 **Tecnologias**
 <p>Estudando:</p>
