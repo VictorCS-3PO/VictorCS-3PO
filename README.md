@@ -3,7 +3,6 @@
   <li>Desenvolvedor Full stack em formação</li>
   <li>Estudante técnico de Desenvolvimento de Sistemas</li>
 </ul>
-<img src="https://img.shields.io/static/v1?label=https://github.com/VictorCS-3PO=VictorCS&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <img width="1080" height="auto" alt="image" src="https://github.com/user-attachments/assets/f7ff6313-ed31-4fb7-8a28-4904bfbb234f" />
 
