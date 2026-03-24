@@ -4,6 +4,7 @@
   <li>Estudante técnico de Desenvolvimento de Sistemas</li>
 </ul>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 **Tecnologias**
 <p>Estudando:</p>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="auto" height="32"align="left"/></code>
